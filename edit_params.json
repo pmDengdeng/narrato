@@ -1,0 +1,70 @@
+{
+  "subtitle_style": [
+    {
+      "name": "小字幕",
+      "value": "70",
+      "avatar_url": "",
+      "res_url": ""
+    },
+    {
+      "name": "标准字幕",
+      "value": "78",
+      "avatar_url": "",
+      "res_url": ""
+    },
+    {
+      "name": "大字幕",
+      "value": "90",
+      "avatar_url": "",
+      "res_url": ""
+    }
+  ],
+  "dubbing": [
+    {
+      "name": "逸尘",
+      "value": "魔云熙",
+      "avatar_url": "https://oss.jufenqian.top/narratorai/demo/voice_images/魔云熙.png",
+      "res_url": "https://oss.jufenqian.top/narratorai/demo/dubbing/魔云熙.MP3"
+    },
+    {
+      "name": "景澜",
+      "value": "魔大卫",
+      "avatar_url": "https://oss.jufenqian.top/narratorai/demo/voice_images/魔大卫.png",
+      "res_url": "https://oss.jufenqian.top/narratorai/demo/dubbing/魔大卫.MP3"
+    },
+    {
+      "name": "雅柔",
+      "value": "小柔",
+      "avatar_url": "https://oss.jufenqian.top/narratorai/demo/voice_images/小柔.png",
+      "res_url": "https://oss.jufenqian.top/narratorai/demo/dubbing/小柔.MP3"
+    }
+  ],
+  "cover": [
+    {
+      "name": "现代简约封面",
+      "value": "cover_v3_s1",
+      "avatar_url": "",
+      "res_url": "https://oss.jufenqian.top/narratorai/demo/cover/cover_v3_s1.png"
+    }
+  ],
+  "bgm": [
+    {
+      "name": "jar_of_love",
+      "value": "jar_of_love0.98x.MP3",
+      "avatar_url": "",
+      "res_url": "https://oss.jufenqian.top/narratorai/bgm/jar_of_love0.98x.MP3"
+    },
+    {
+      "name": "不潮不花钱",
+      "value": "不潮不花钱0.98x.MP3",
+      "avatar_url": "",
+      "res_url": "https://oss.jufenqian.top/narratorai/bgm/不潮不花钱0.98x.MP3"
+    },
+    {
+      "name": "我的心下起了雪",
+      "value": "疯狂北海沙虫0.98x.MP3",
+      "avatar_url": "",
+      "res_url": "https://oss.jufenqian.top/narratorai/bgm/疯狂北海沙虫0.98x.MP3"
+    }
+  ]
+}
