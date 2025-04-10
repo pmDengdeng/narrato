@@ -16,10 +16,9 @@ if 'api_key' not in st.session_state:
     st.session_state.api_key = ""
 
 # 顶部API密钥输入区
-st.title("NarratoAI 控制台")
+st.title("NarratoAPI 控制台")
 with st.expander("API密钥设置", expanded=not st.session_state.api_key):
 
-    
     with st.form("api_key_form"):
         api_key = st.text_input("API密钥", type="password", value=st.session_state.api_key)
         if st.form_submit_button("保存密钥"):
